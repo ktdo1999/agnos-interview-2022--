@@ -1,0 +1,341 @@
+.b_hand_top_1{
+    position: absolute;
+    top: 9rem;
+    left: 19.4rem;
+    width: 5%;
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+.b_hand_top_2{
+    position: absolute;
+    top: 8.35rem;
+    left: 16.2rem;
+    width: 5%;
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+.b_hand_top_3{
+    position: absolute;
+    top: 9.6rem;
+    left: 13.5rem;
+    width: 5%;
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+.b_hand_top_4{
+    position: absolute;
+    top: 12.8rem;
+    left: 10.3rem;
+    width: 5%;
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+.b_hand_mid_1{
+    position: absolute;
+    top: 15.1rem;
+    left: 11.3rem;
+    width: 5%;
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+.b_hand_mid_2{
+    position: absolute;
+    top: 12.7rem;
+    left: 13.8rem;
+    width: 5%;
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+.b_hand_mid_3{
+    position: absolute;
+    top: 11.65rem;
+    left: 16.5rem;
+    width: 5%;
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+.b_hand_mid_4{
+    position: absolute;
+    top: 12rem;
+    left: 19.3rem;
+    width: 5%;
+    height: 3%;
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+.b_hand_mid_5{
+    position: absolute;
+    top: 18rem;
+    left: 24.5rem;
+    width: 5%;
+   
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+.b_hand_bottom_1{
+    position: absolute;
+    top: 20.9rem;
+    left: 22.5rem;
+    width: 5%;
+    height: 5%;
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+.b_hand_bottom_2{
+    position: absolute;
+    top: 16.0rem;
+    left: 19.2rem;
+    width: 5%;
+    height: 4%;
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+.b_hand_bottom_3{
+    position: absolute;
+    top: 16.0rem;
+    left: 16.8rem;
+    width: 5%;
+    height: 4%;
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+.b_hand_bottom_4{
+    position: absolute;
+    top: 16.5rem;
+    left: 14.5rem;
+    width: 5%;
+    
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+.b_hand_bottom_5{
+    position: absolute;
+    top: 17.4rem;
+    left: 12.4rem;
+    width: 5%;
+    height: 4.5%;
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+.b_hand_all{
+    position: absolute;
+    top: 32.3rem;
+    left: 8.8rem;
+    width: 49%;
+    height: 7.3%;
+    opacity: 0.1;
+    z-index: 4;
+    border: none;
+    cursor: pointer;
+}
+@media only screen and (max-width: 412px) {
+    .b_hand_top_1{
+        
+        position: absolute;
+        top: 6.7rem;
+        left: 10.3rem;
+        width: 5%;
+        height: 3.4%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+    .b_hand_top_2{
+        
+        position: absolute;
+        top: 6.3rem;
+        left: 8.6rem;
+        width: 5%;
+        height: 3.4%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+    .b_hand_top_3{
+        
+        position: absolute;
+        top: 7rem;
+        left: 7.2rem;
+        width: 5%;
+        height: 3.4%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+    .b_hand_top_4{
+        
+        position: absolute;
+        top: 8.75rem;
+        left: 5.6rem;
+        width: 5%;
+        height: 3.4%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+    .b_hand_mid_1{
+        
+        position: absolute;
+        top: 8.35rem;
+        left: 10.35rem;
+        width: 5%;
+        height: 3.4%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+    .b_hand_mid_2{
+        
+        position: absolute;
+        top: 8.1rem;
+        left: 8.8rem;
+        width: 5%;
+        height: 3.4%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+    .b_hand_mid_3{
+        
+        position: absolute;
+        top: 8.65rem;
+        left: 7.35rem;
+        width: 5%;
+        height: 3.4%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+    .b_hand_mid_4{
+        
+        position: absolute;
+        top: 9.9rem;
+        left: 6rem;
+        width: 5%;
+        height: 3.5%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+    .b_hand_mid_5{
+        
+        position: absolute;
+        top: 11.4rem;
+        left: 13.2rem;
+        width: 5%;
+        height: 4%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+    .b_hand_bottom_1{
+       
+        position: absolute;
+        top: 10.5rem;
+        left: 10.15rem;
+        width: 6%;
+        height: 4%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+    .b_hand_bottom_2{
+        
+        position: absolute;
+        top: 10.5rem;
+        left: 8.9rem;
+        width: 6%;
+        height: 4%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+    .b_hand_bottom_3{
+        
+        position: absolute;
+        top: 10.9rem;
+        left: 7.74rem;
+        width: 5.9%;
+        height: 3.7%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+    .b_hand_bottom_4{
+       
+        position: absolute;
+        top: 11.4rem;
+        left: 6.6rem;
+        width: 6%;
+        height: 4%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+    .b_hand_bottom_5{
+        
+        position: absolute;
+        top: 13.2rem;
+        left: 12rem;
+        width: 5.8%;
+        height: 4.9%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+    .b_hand_all{
+        
+        position: absolute;
+        top: 19.3rem;
+        left: 4.8rem;
+        width: 48%;
+        border-radius: 10px;
+        height: 6.5%;
+        opacity: 0.1;
+        z-index: 4;
+        border: none;
+        cursor: pointer;
+    }
+}

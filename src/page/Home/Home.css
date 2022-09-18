@@ -1,0 +1,71 @@
+.header{
+    margin:  15% 20% 0 20%;
+    padding-bottom: 0;
+    text-align: center;
+    font-size: 5rem;
+    font-weight: bolder;
+    margin-bottom: 0;
+}
+
+.con{
+    background-color: rgb(243, 243, 243);
+    
+    margin:  -32px 20% 20% 20%;
+    
+    padding: 2rem;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) ;
+    gap: 5rem;
+    grid-auto-rows: 1fr;
+    
+    
+}
+.card{
+    height: 6.25rem;
+    position: relative;
+}
+.bTitle{
+    position: absolute;
+    background-color: rgb(243, 243, 243);
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    border: 0;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    
+}
+.title{
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+}
+.bTitle:hover{
+    cursor: pointer;
+    
+}
+@media only screen and (max-width: 412px) {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .con{
+        background-color: rgb(243, 243, 243);
+        
+        margin:  -20px 10% 20% 10%;
+        
+        padding: 2rem;
+    }
+    .grid-container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) ;
+        gap: 5rem;
+        grid-auto-rows: 1fr;
+        
+        
+    }
+
+}
